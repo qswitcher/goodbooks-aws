@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "goodbooks-dev-20190911221822-authRole",
+            "UnauthRoleArn": "arn:aws:iam::669497506585:role/goodbooks-dev-20190911221822-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::669497506585:role/goodbooks-dev-20190911221822-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "goodbooks-dev-20190911221822-deployment",
+            "UnauthRoleName": "goodbooks-dev-20190911221822-unauthRole",
+            "StackName": "goodbooks-dev-20190911221822",
+            "StackId": "arn:aws:cloudformation:us-east-1:669497506585:stack/goodbooks-dev-20190911221822/fb638270-d50b-11e9-9acf-0e03eb938c18"
+        }
+    }
+}
